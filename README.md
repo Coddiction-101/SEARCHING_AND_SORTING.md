@@ -1,103 +1,72 @@
-# 🚀 DSA Patterns & Algorithms Mastery
+# DSA Patterns & Algorithms
 
-A structured repository to master **Data Structures & Algorithms (DSA)** using a **pattern-based approach**.
-
-This repo is designed to help in:
-- 📈 Building strong problem-solving skills
-- 🧠 Understanding core patterns (not just memorizing solutions)
-- 💼 Preparing for coding interviews
+A structured repository to learn Data Structures and Algorithms using a pattern-based approach.
 
 ---
 
-# 📂 Repository Structure
+## Repository Structure
 
-## 📌 1. 🔍 Searching & Sorting
-📄 `SEARCHING_AND_SORTING.md`
+### Searching & Sorting
+`SEARCHING_SORTING.md`
 
-Covers all fundamental techniques:
-- Linear Search
-- Binary Search
-- Sorting Algorithms (Merge, Quick, etc.)
-- Built-in STL Sorting
+- Linear Search  
+- Binary Search  
+- Sorting Algorithms (Merge, Quick)  
+- STL Sort  
 
-👉 Focus: **Core operations + concepts**
-
----
-
-## 📌 2. 🧠 DSA Patterns (Arrays + Strings)
-📄 `PATTERNS.md`
-
-Covers pattern-based problem solving:
-- Two Pointers
-- Sliding Window
-- Prefix Sum
-- Hashing
-- Kadane’s Algorithm
-- Greedy / Intervals
-
-👉 Focus: **Problem-solving patterns**
+Focus: fundamentals and core operations
 
 ---
 
-# 🎯 Learning Approach
+### Patterns (Arrays + Strings)
+`ARRAY_PATTERNS.md`  
+`STRING_PATTERNS.md`
 
-Instead of solving random problems, this repo follows:
+- Two Pointers  
+- Sliding Window  
+- Prefix Sum  
+- Hashing  
+- Kadane’s Algorithm  
+- Index Mapping  
 
-> 💡 **Pattern → Logic → Problems → Mastery**
-
-### 🔥 Workflow:
-1. Understand the pattern
-2. Solve basic problems
-3. Move to advanced variations
-4. Repeat for next pattern
-
----
-
-# 🧩 Key Patterns Covered
-
-- 🔹 Two Pointers  
-- 🔹 Sliding Window  
-- 🔹 Prefix Sum  
-- 🔹 Hashing  
-- 🔹 Binary Search  
-- 🔹 Greedy  
-- 🔹 Kadane’s Algorithm  
+Focus: pattern-based problem solving
 
 ---
 
-# 🛠 Tech Stack
+## Learning Approach
 
-- Language: **C++**
-- Platform: LeetCode / GFG
+Pattern → Logic → Problems → Mastery
 
----
-
-# 📈 Progress Tracker
-
-| Date | Problem | Pattern | Difficulty |
-|------|--------|--------|-----------|
-| Day 1 | Max Consecutive Ones | Sliding Window | Easy |
-
-*(Update this daily to maintain consistency)*
+Workflow:
+1. Understand the pattern  
+2. Solve easy problems  
+3. Move to medium  
+4. Revisit without help  
 
 ---
 
-# 🎯 Goals
+## Key Patterns
 
-- Solve 100+ DSA problems
-- Master core patterns
-- Build interview-ready skills
-- Stay consistent daily 🔥
-
----
-
-# 💡 Why This Repo?
-
-- Clean structured learning
-- Pattern-based approach
-- Beginner → Intermediate friendly
-- Focus on logic building
+- Two Pointers  
+- Sliding Window  
+- Prefix Sum  
+- Hashing  
+- Binary Search  
+- Kadane’s Algorithm  
 
 ---
 
- 
+## Tech Stack
+
+- Language: C++  
+- Platforms: LeetCode, GFG  
+
+---
+
+## Goal
+
+- Master core DSA patterns  
+- Build strong problem-solving skills  
+- Stay consistent  
+
+---
