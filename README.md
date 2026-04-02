@@ -80,10 +80,10 @@ This section covers all important **searching and sorting techniques** used in D
 <details>
 <summary>Concept + Problems</summary>
 
-### 📌 Concept
+### Concept
 - Select minimum and swap
 
-### ⏱ Complexity
+### Complexity
 - O(n²)
 
 </details>
@@ -94,10 +94,10 @@ This section covers all important **searching and sorting techniques** used in D
 <details>
 <summary>Concept + Problems</summary>
 
-### 📌 Concept
+### Concept
 - Insert element in correct position
 
-### ⏱ Complexity
+### Complexity
 - O(n²)
 
 </details>
@@ -108,13 +108,13 @@ This section covers all important **searching and sorting techniques** used in D
 <details>
 <summary>Concept + Problems</summary>
 
-### 📌 Concept
+### Concept
 - Divide and merge
 
-### ⏱ Complexity
+### Complexity
 - O(n log n)
 
-### 🧪 Problems
+### Problems
 - Merge Sort Implementation
 - Count Inversions ⭐
 
