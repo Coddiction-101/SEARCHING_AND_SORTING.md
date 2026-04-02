@@ -1,146 +1,120 @@
-# Searching & Sorting (Core Fundamentals)
+# 🚀 DSA Patterns & Algorithms Mastery
 
-This section covers all important **searching and sorting techniques** used in DSA along with their applications and practice problems.
+A structured repository to master **Data Structures & Algorithms (DSA)** using a **pattern-based approach**.
 
----
-
-# Searching Techniques
-
-### 🟥 Linear Search
-<details>
-<summary>Concept + Problems</summary>
-
-### Concept
-- Traverse the array one by one
-- Compare each element
-
-### Complexity
-- Time: O(n)
-- Space: O(1)
-
-### Use Case
-- Small datasets
-- Unsorted arrays
-
-### Problems
-- Find element in array
-- First Occurrence of Element
-- Count occurrences
-
-</details>
+This repo is designed to help in:
+- 📈 Building strong problem-solving skills
+- 🧠 Understanding core patterns (not just memorizing solutions)
+- 💼 Preparing for coding interviews
 
 ---
 
-### 🟥 Binary Search 
-<details>
-<summary>Concept + Problems</summary>
+# 📂 Repository Structure
 
-### Concept
-- Works on **sorted arrays**
-- Divide and conquer
+## 📌 1. 🔍 Searching & Sorting
+📄 `SEARCHING_AND_SORTING.md`
 
-### Complexity
-- Time: O(log n)
-
-### Key Idea
-- Mid = (low + high) / 2
-
-### Problems
+Covers all fundamental techniques:
+- Linear Search
 - Binary Search
-- Search Insert Position
-- First Bad Version
-- Find First and Last Position ⭐
-- Search in Rotated Sorted Array ⭐⭐
-- Find Peak Element
+- Sorting Algorithms (Merge, Quick, etc.)
+- Built-in STL Sorting
 
-</details>
+👉 Focus: **Core operations + concepts**
 
 ---
 
-# Sorting Techniques
+## 📌 2. 🧠 DSA Patterns (Arrays + Strings)
+📄 `PATTERNS.md`
 
-## 🟨 Bubble Sort
-<details>
-<summary>Concept + Problems</summary>
+Covers pattern-based problem solving:
+- Two Pointers
+- Sliding Window
+- Prefix Sum
+- Hashing
+- Kadane’s Algorithm
+- Greedy / Intervals
 
-### Concept
-- Repeatedly swap adjacent elements
-
-### Complexity
-- O(n²)
-
-### Problems
-- Basic sorting practice
-
-</details>
+👉 Focus: **Problem-solving patterns**
 
 ---
 
-## 🟨 Selection Sort
-<details>
-<summary>Concept + Problems</summary>
+# 🎯 Learning Approach
 
-### Concept
-- Select minimum and swap
+Instead of solving random problems, this repo follows:
 
-### Complexity
-- O(n²)
+> 💡 **Pattern → Logic → Problems → Mastery**
 
-</details>
-
----
-
-## 🟨 Insertion Sort
-<details>
-<summary>Concept + Problems</summary>
-
-### Concept
-- Insert element in correct position
-
-### Complexity
-- O(n²)
-
-</details>
+### 🔥 Workflow:
+1. Understand the pattern
+2. Solve basic problems
+3. Move to advanced variations
+4. Repeat for next pattern
 
 ---
 
-## 🟨 Merge Sort 
-<details>
-<summary>Concept + Problems</summary>
+# 🧩 Key Patterns Covered
 
-### Concept
-- Divide and merge
-
-### Complexity
-- O(n log n)
-
-### Problems
-- Merge Sort Implementation
-- Count Inversions ⭐
-
-</details>
+- 🔹 Two Pointers  
+- 🔹 Sliding Window  
+- 🔹 Prefix Sum  
+- 🔹 Hashing  
+- 🔹 Binary Search  
+- 🔹 Greedy  
+- 🔹 Kadane’s Algorithm  
 
 ---
 
-## 🟨 Quick Sort  
-<details>
-<summary>Concept + Problems</summary>
+# 🛠 Tech Stack
 
-### Concept
-- Pivot-based partitioning
-
-### Complexity
-- Avg: O(n log n)
-- Worst: O(n²)
-
-</details>
+- Language: **C++**
+- Platform: LeetCode / GFG
 
 ---
 
-##  Built-in Sorting (Important 🔥)
-<details>
-<summary>Usage</summary>
+# 📈 Progress Tracker
 
-### C++:
-```cpp
-sort(arr.begin(), arr.end());
+| Date | Problem | Pattern | Difficulty |
+|------|--------|--------|-----------|
+| Day 1 | Max Consecutive Ones | Sliding Window | Easy |
+
+*(Update this daily to maintain consistency)*
+
+---
+
+# 🎯 Goals
+
+- Solve 100+ DSA problems
+- Master core patterns
+- Build interview-ready skills
+- Stay consistent daily 🔥
+
+---
+
+# 💡 Why This Repo?
+
+- Clean structured learning
+- Pattern-based approach
+- Beginner → Intermediate friendly
+- Focus on logic building
+
+---
+
+# 🚀 Future Plans
+
+- Add Graphs & Trees
+- Add Dynamic Programming
+- Add Interview Questions Set
+- Add Notes & Explanations
+
+---
+
+# 🤝 Contribution
+
+This is a personal learning repository, but suggestions and improvements are always welcome!
+
+---
+
+# ⭐ If you find this helpful
+
+Give it a ⭐ and start your DSA journey 🚀
