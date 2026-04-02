@@ -31,7 +31,7 @@ This section covers all important **searching and sorting techniques** used in D
 
 ---
 
-## 🟥 Binary Search ⭐
+### 🟥 Binary Search 
 <details>
 <summary>Concept + Problems</summary>
 
