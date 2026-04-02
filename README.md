@@ -126,10 +126,10 @@ This section covers all important **searching and sorting techniques** used in D
 <details>
 <summary>Concept + Problems</summary>
 
-### 📌 Concept
+### Concept
 - Pivot-based partitioning
 
-### ⏱ Complexity
+### Complexity
 - Avg: O(n log n)
 - Worst: O(n²)
 
@@ -137,7 +137,7 @@ This section covers all important **searching and sorting techniques** used in D
 
 ---
 
-## 🔹 Built-in Sorting (Important 🔥)
+##  Built-in Sorting (Important 🔥)
 <details>
 <summary>Usage</summary>
 
