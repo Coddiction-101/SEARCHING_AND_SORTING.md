@@ -100,21 +100,4 @@ Instead of solving random problems, this repo follows:
 
 ---
 
-# 🚀 Future Plans
-
-- Add Graphs & Trees
-- Add Dynamic Programming
-- Add Interview Questions Set
-- Add Notes & Explanations
-
----
-
-# 🤝 Contribution
-
-This is a personal learning repository, but suggestions and improvements are always welcome!
-
----
-
-# ⭐ If you find this helpful
-
-Give it a ⭐ and start your DSA journey 🚀
+ 
