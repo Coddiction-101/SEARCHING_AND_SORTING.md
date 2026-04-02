@@ -59,7 +59,7 @@ This section covers all important **searching and sorting techniques** used in D
 
 # 🔃 Sorting Techniques
 
-## 🔹 Bubble Sort
+## 🟨 Bubble Sort
 <details>
 <summary>Concept + Problems</summary>
 
