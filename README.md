@@ -57,19 +57,19 @@ This section covers all important **searching and sorting techniques** used in D
 
 ---
 
-# 🔃 Sorting Techniques
+# Sorting Techniques
 
 ## 🟨 Bubble Sort
 <details>
 <summary>Concept + Problems</summary>
 
-### 📌 Concept
+### Concept
 - Repeatedly swap adjacent elements
 
-### ⏱ Complexity
+### Complexity
 - O(n²)
 
-### 🧪 Problems
+### Problems
 - Basic sorting practice
 
 </details>
