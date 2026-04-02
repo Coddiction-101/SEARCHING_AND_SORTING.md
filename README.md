@@ -104,7 +104,7 @@ This section covers all important **searching and sorting techniques** used in D
 
 ---
 
-## 🟨 Merge Sort ⭐
+## 🟨 Merge Sort 
 <details>
 <summary>Concept + Problems</summary>
 
@@ -122,7 +122,7 @@ This section covers all important **searching and sorting techniques** used in D
 
 ---
 
-## 🟨 Quick Sort ⭐⭐
+## 🟨 Quick Sort  
 <details>
 <summary>Concept + Problems</summary>
 
