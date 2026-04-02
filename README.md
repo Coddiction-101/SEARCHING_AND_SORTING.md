@@ -1,28 +1,28 @@
-# 🔍 Searching & Sorting (Core Fundamentals)
+# Searching & Sorting (Core Fundamentals)
 
 This section covers all important **searching and sorting techniques** used in DSA along with their applications and practice problems.
 
 ---
 
-# 🔎 Searching Techniques
+# Searching Techniques
 
 ### 🟥 Linear Search
 <details>
 <summary>Concept + Problems</summary>
 
-### 📌 Concept
+### Concept
 - Traverse the array one by one
 - Compare each element
 
-### ⏱ Complexity
+### Complexity
 - Time: O(n)
 - Space: O(1)
 
-### 💡 Use Case
+### Use Case
 - Small datasets
 - Unsorted arrays
 
-### 🧪 Problems
+### Problems
 - Find element in array
 - First Occurrence of Element
 - Count occurrences
@@ -35,17 +35,17 @@ This section covers all important **searching and sorting techniques** used in D
 <details>
 <summary>Concept + Problems</summary>
 
-### 📌 Concept
+### Concept
 - Works on **sorted arrays**
 - Divide and conquer
 
-### ⏱ Complexity
+### Complexity
 - Time: O(log n)
 
-### 🧠 Key Idea
+### Key Idea
 - Mid = (low + high) / 2
 
-### 🔥 Problems
+### Problems
 - Binary Search
 - Search Insert Position
 - First Bad Version
